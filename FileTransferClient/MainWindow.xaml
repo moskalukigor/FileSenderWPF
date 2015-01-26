@@ -1,0 +1,15 @@
+﻿<Window x:Class="FileTransferClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="188" Width="280"
+        Background="Khaki">
+    <Grid>
+        <Label Name="lblPathFile" Margin="4,0,168,102">PathFile:</Label>
+        <TextBox Name="txbPathFile" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="60,5,0,0" Width="190"></TextBox>
+        <Label Name="lblPort" Margin="25,47,181,71">Port:</Label>
+        <TextBox Name="txbPort" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="60,51,0,0" Width="190"></TextBox>
+        <Label Name="lblIP" Margin="36,23,181,102">Ip:</Label>
+        <TextBox Name="txbIP" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="60,28,0,0" Width="190"></TextBox>
+        <Button Name="Send" Click="Send_Click_1" Margin="26,86,12,10" Content="S e n d" FontFamily="Impact" FontSize="25"/>
+    </Grid>
+</Window>

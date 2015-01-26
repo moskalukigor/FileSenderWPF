@@ -1,0 +1,8 @@
+﻿<Window x:Class="FileTranferServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="134.728" Width="319.979">
+    <Grid>
+        <Button Name="btnStart" Content="Start server" Click="btnStart_Click_1"></Button>
+    </Grid>
+</Window>

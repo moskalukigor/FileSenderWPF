@@ -1,0 +1,26 @@
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\bin\Debug\FileTransferClient.exe.config
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\bin\Debug\FileTransferClient.exe
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\bin\Debug\FileTransferClient.pdb
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\obj\Debug\FileTransferClient.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\obj\Debug\MainWindow.baml
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\obj\Debug\MainWindow.g.cs
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\obj\Debug\App.g.cs
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\obj\Debug\FileTransferClient_MarkupCompile.cache
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\obj\Debug\FileTransferClient.g.resources
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\obj\Debug\FileTransferClient.Properties.Resources.resources
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\obj\Debug\FileTransferClient.csproj.GenerateResource.Cache
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\obj\Debug\FileTransferClient.exe
+c:\users\temp\documents\visual studio 2012\Projects\FileTransfer\FileTransferClient\obj\Debug\FileTransferClient.pdb
+D:\moskaluk\FileTransferWPF\FileTransferClient\bin\Debug\FileTransferClient.exe.config
+D:\moskaluk\FileTransferWPF\FileTransferClient\obj\Debug\FileTransferClient.exe
+D:\moskaluk\FileTransferWPF\FileTransferClient\obj\Debug\FileTransferClient.pdb
+D:\moskaluk\FileTransferWPF\FileTransferClient\bin\Debug\FileTransferClient.exe
+D:\moskaluk\FileTransferWPF\FileTransferClient\bin\Debug\FileTransferClient.pdb
+D:\moskaluk\FileTransferWPF\FileTransferClient\obj\Debug\FileTransferClient.csprojResolveAssemblyReference.cache
+D:\moskaluk\FileTransferWPF\FileTransferClient\obj\Debug\MainWindow.baml
+D:\moskaluk\FileTransferWPF\FileTransferClient\obj\Debug\MainWindow.g.cs
+D:\moskaluk\FileTransferWPF\FileTransferClient\obj\Debug\App.g.cs
+D:\moskaluk\FileTransferWPF\FileTransferClient\obj\Debug\FileTransferClient_MarkupCompile.cache
+D:\moskaluk\FileTransferWPF\FileTransferClient\obj\Debug\FileTransferClient.g.resources
+D:\moskaluk\FileTransferWPF\FileTransferClient\obj\Debug\FileTransferClient.Properties.Resources.resources
+D:\moskaluk\FileTransferWPF\FileTransferClient\obj\Debug\FileTransferClient.csproj.GenerateResource.Cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTransferClient", "FileTransferClient\FileTransferClient.csproj", "{F113588D-6B64-433D-B882-528DC864F665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTranferServer", "FileTranferServer\FileTranferServer.csproj", "{1317AA9A-A20B-4E33-91D2-404C7233890B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F113588D-6B64-433D-B882-528DC864F665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F113588D-6B64-433D-B882-528DC864F665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F113588D-6B64-433D-B882-528DC864F665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F113588D-6B64-433D-B882-528DC864F665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1317AA9A-A20B-4E33-91D2-404C7233890B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1317AA9A-A20B-4E33-91D2-404C7233890B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1317AA9A-A20B-4E33-91D2-404C7233890B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1317AA9A-A20B-4E33-91D2-404C7233890B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
